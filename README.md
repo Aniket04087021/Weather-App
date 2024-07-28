@@ -44,3 +44,8 @@ OpenWeatherMap for providing the weather data API.
 Font Awesome for the icons used in the app.
 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+
+
+#Visit my website#
+https://aniket04087021.github.io/Weather-App/
